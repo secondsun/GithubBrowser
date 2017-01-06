@@ -1,0 +1,4 @@
+build/*
+target/*
+nb-*
+nb_*
